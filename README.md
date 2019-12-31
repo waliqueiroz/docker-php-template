@@ -1,4 +1,4 @@
-# docker-template
+# Docker PHP template
 
 ## Descrição
 
